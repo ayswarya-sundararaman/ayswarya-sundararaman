@@ -1,6 +1,6 @@
 
 
-# 👋 Hi, I’m **Ayswarya Sundararaman**! 
+# 👋 Hi, I’m **Ayswarya Sundararaman**! Link to my portfolio : https://ayswarya-sundararaman.github.io/portfolio/
 
 **Data Engineer** | **Machine Learning Enthusiast** | **Automation Expert**
 
