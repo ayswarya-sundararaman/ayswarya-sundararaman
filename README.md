@@ -11,10 +11,10 @@ I have over 4 years of experience in Python, SQL, Tableau, delivering impactful 
 ## 🛠️ **Technologies & Tools:**
 
 - **Languages**: Python, SQL, R
-- **Machine Learning**: Scikit-Learn, TensorFlow, Keras, XGBoost, Random Forest
+- **Machine Learning**: Scikit-Learn, TensorFlow, Keras
 - **Data Visualization**: Tableau, Matplotlib, Seaborn , Advanced Excel
 - **Big Data**: Hadoop, Spark, Apache Kafka , Airflow , Apache Spark
-- **Tools**: Git, Jenkins, Docker, Jupyter, Google Colab
+- **Tools**: Git, Docker, Jupyter, Google Colab
 - **Databases**: MySQL, MongoDB, Cassandra
 
 ---
