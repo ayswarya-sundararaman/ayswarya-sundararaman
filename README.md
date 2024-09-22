@@ -1,6 +1,4 @@
-Here’s a **mind-blowing repository README** for your GitHub profile based on your expertise in data science, machine learning, and the projects you’ve shared with me:
 
----
 
 # 👋 Hi, I’m **Ayswarya Sundararaman**! 
 
