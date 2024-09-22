@@ -29,11 +29,11 @@ Built an end-to-end convolutional neural network model based on **NVIDIA’s arc
   
 ---
 
-### 📊 [**Walmart Sales Forecasting**](https://github.com/your-username/walmart-sales-forecasting)
+### 📊 [**Walmart Sales Forecasting**](https://github.com/your-username/walmart-sales-forecasting)(https://medium.com/@ays060/walmart-store-sales-forecasting-kaggle-challenge-53719d4f8ddf)
 Developed a machine learning model to forecast weekly sales for different Walmart departments using time-series data. Integrated markdown event features, applied advanced feature engineering, and trained a model to predict future sales accurately.
 
 - **Tools**: Python, Random Forest, XGBoost, Time Series Analysis
-- **Results**: Achieved an impressive weighted mean absolute error (WMAE) metric by accounting for holiday effects and markdowns.
+- **Results**: Achieved an impressive weighted mean absolute error (WMAE) metric by accounting for holiday effects and markdowns.Achieved an Kaggle rank of 20 .
 
 ---
 
