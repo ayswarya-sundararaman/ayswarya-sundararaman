@@ -4,7 +4,7 @@
 
 **Data Engineer** | **Machine Learning Enthusiast** | **Automation Expert**
 
-I have over 4 years of experience in Python, SQL, Tableau, and R, delivering impactful data solutions. Currently pursuing a Master's in Informatics at Northeastern University, I’m passionate about using data-driven methods to solve real-world problems, from predictive modeling to automation.
+I have over 4 years of experience in Python, SQL, Tableau, delivering impactful data solutions. Currently pursuing a Master's in Informatics at Northeastern University, I’m passionate about using data-driven methods to solve real-world problems, from predictive modeling to automation.
 
 ---
 
