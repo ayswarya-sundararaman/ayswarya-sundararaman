@@ -23,7 +23,7 @@ I have over 4 years of experience in Python, SQL, Tableau, delivering impactful 
 
 ## 🌟 **Highlighted Projects:**
 
-### 🚗 [**Self-Driving Car Steering Angle Prediction**](https://github.com/your-username/self-driving-car-prediction)
+### 🚗 [**Self-Driving Car Steering Angle Prediction**](https://github.com/ayswarya-sundararaman/self-driving-car-prediction)
 Built an end-to-end convolutional neural network model based on **NVIDIA’s architecture** to predict steering angles from front-view car images using **SullyChen’s self-driving car dataset**. Applied data augmentation, dropout, and fine-tuned hyperparameters to achieve high accuracy in real-world scenarios.
 
 - **Tools**: Python, TensorFlow, Keras, OpenCV
@@ -31,7 +31,7 @@ Built an end-to-end convolutional neural network model based on **NVIDIA’s arc
   
 ---
 
-### 📊 [**Walmart Sales Forecasting**](https://github.com/your-username/walmart-sales-forecasting)(https://medium.com/@ays060/walmart-store-sales-forecasting-kaggle-challenge-53719d4f8ddf)
+### 📊 [**Walmart Sales Forecasting**](https://github.com/ayswarya-sundararaman/walmart-sales-forecasting)(https://medium.com/@ays060/walmart-store-sales-forecasting-kaggle-challenge-53719d4f8ddf)
 Developed a machine learning model to forecast weekly sales for different Walmart departments using time-series data. Integrated markdown event features, applied advanced feature engineering, and trained a model to predict future sales accurately.
 
 - **Tools**: Python, Random Forest, XGBoost, Time Series Analysis
@@ -39,7 +39,7 @@ Developed a machine learning model to forecast weekly sales for different Walmar
 
 ---
 
-### 🧠 [**Human Activity Recognition using CNN and LSTM**](https://github.com/your-username/human-activity-recognition)
+### 🧠 [**Human Activity Recognition using CNN and LSTM**](https://github.com/ayswarya-sundararaman/human-activity-recognition)
 Built a deep learning model using **CNN and LSTM layers** to classify human activities (walking, sitting, standing, etc.) using smartphone sensor data from the UCI HAR dataset. Applied a **divide-and-conquer strategy** to optimize classification for dynamic and static activities.
 
 - **Tools**: Python, TensorFlow, Keras
@@ -47,7 +47,7 @@ Built a deep learning model using **CNN and LSTM layers** to classify human acti
 
 ---
 
-### 🏆 [**StackOverflow Tag Prediction**](https://github.com/your-username/stackoverflow-tag-prediction)
+### 🏆 [**StackOverflow Tag Prediction**](https://github.com/ayswarya-sundararaman/stackoverflow-tag-prediction)
 Developed a multi-label classification system for StackOverflow’s question pairs using NLP techniques such as **TF-IDF**, **word embeddings**, and machine learning models. Built a robust feature engineering pipeline to predict relevant tags for each question.
 
 - **Tools**: Python, NLP, Logistic Regression, XGBoost
@@ -55,7 +55,7 @@ Developed a multi-label classification system for StackOverflow’s question pai
 
 ---
 
-### 📈 [**DonorsChoose Clustering Analysis**](https://github.com/your-username/donorschoose-clustering)
+### 📈 [**DonorsChoose Clustering Analysis**](https://github.com/ayswarya-sundararaman/donorschoose-clustering)
 Applied **K-Means** and **Agglomerative Clustering** on the DonorsChoose dataset to identify patterns in project proposals. Utilized **Truncated SVD** for dimensionality reduction and visualized clusters to uncover insights into project types and approval likelihood.
 
 - **Tools**: Python, Scikit-Learn, Matplotlib
