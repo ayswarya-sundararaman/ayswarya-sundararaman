@@ -23,7 +23,7 @@ I have over 4 years of experience in Python, SQL, Tableau, delivering impactful 
 
 ## 🌟 **Highlighted Projects:**
 
-### 🚗 [**Self-Driving Car Steering Angle Prediction**](https://github.com/ayswarya-sundararaman/self-driving-car-prediction)
+### 🚗 [**Self-Driving Car Steering Angle Prediction**]([https://github.com/ayswarya-sundararaman/self-driving-car-prediction](https://github.com/ayswarya-sundararaman/Self-Driving-using-sully-chen))
 Built an end-to-end convolutional neural network model based on **NVIDIA’s architecture** to predict steering angles from front-view car images using **SullyChen’s self-driving car dataset**. Applied data augmentation, dropout, and fine-tuned hyperparameters to achieve high accuracy in real-world scenarios.
 
 - **Tools**: Python, TensorFlow, Keras, OpenCV
@@ -31,7 +31,7 @@ Built an end-to-end convolutional neural network model based on **NVIDIA’s arc
   
 ---
 
-### 📊 [**Walmart Sales Forecasting**](https://github.com/ayswarya-sundararaman/walmart-sales-forecasting)(https://medium.com/@ays060/walmart-store-sales-forecasting-kaggle-challenge-53719d4f8ddf)
+### 📊 [**Walmart Sales Forecasting**]([https://github.com/ayswarya-sundararaman/walmart-sales-forecasting](https://github.com/ayswarya-sundararaman/Walmart-Store-sales-forecast))(https://medium.com/@ays060/walmart-store-sales-forecasting-kaggle-challenge-53719d4f8ddf)
 Developed a machine learning model to forecast weekly sales for different Walmart departments using time-series data. Integrated markdown event features, applied advanced feature engineering, and trained a model to predict future sales accurately.
 
 - **Tools**: Python, Random Forest, XGBoost, Time Series Analysis
@@ -39,7 +39,7 @@ Developed a machine learning model to forecast weekly sales for different Walmar
 
 ---
 
-### 🧠 [**Human Activity Recognition using CNN and LSTM**](https://github.com/ayswarya-sundararaman/human-activity-recognition)
+### 🧠 [**Human Activity Recognition using CNN and LSTM**]([https://github.com/ayswarya-sundararaman/human-activity-recognition](https://github.com/ayswarya-sundararaman/HumanActivityRecognition))
 Built a deep learning model using **CNN and LSTM layers** to classify human activities (walking, sitting, standing, etc.) using smartphone sensor data from the UCI HAR dataset. Applied a **divide-and-conquer strategy** to optimize classification for dynamic and static activities.
 
 - **Tools**: Python, TensorFlow, Keras
