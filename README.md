@@ -51,7 +51,7 @@ Built a deep learning model using **CNN and LSTM layers** to classify human acti
 Developed a multi-label classification system for StackOverflow’s question pairs using NLP techniques such as **TF-IDF**, **word embeddings**, and machine learning models. Built a robust feature engineering pipeline to predict relevant tags for each question.
 
 - **Tools**: Python, NLP, Logistic Regression, XGBoost
-- **Results**: Achieved 85% accuracy in predicting the most relevant tags for a given question.
+
 
 ---
 
